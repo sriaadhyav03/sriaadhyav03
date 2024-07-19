@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriaadhyav03
 - 👀 I’m interested in computer science, and game development
-- 🌱 I’m currently learning javascript, and httml
+- 🌱 I’m currently learning javascript, and html
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @sephorahaulic on discord 
 - 😄 Pronouns: she/her
