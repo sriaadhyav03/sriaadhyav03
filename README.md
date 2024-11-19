@@ -2,9 +2,9 @@
 - 👀 I’m interested in computer science, and game development
 - 🌱 I’m currently learning javascript, and html
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @sephorahaulic on discord 
+- 📫 How to reach me @sraadssa_ on discord 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i like playing dress to impress!
+- ⚡ Fun fact: this is my first year programming
 
 <!---
 sriaadhyav03/sriaadhyav03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
